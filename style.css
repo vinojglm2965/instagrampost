@@ -1,0 +1,71 @@
+.margin {
+    border: solid gray;
+    height: 735px;
+    width: 620px;
+    margin-left: 482px;
+    margin-top: 126px;
+    margin-bottom: 126px;
+    margin-right: 482px;
+}
+.head{
+    overflow: hidden;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    border: none;
+    float: left;
+    margin-top: 15px;
+    margin-left: 2px;
+    margin-right: 4px;
+}
+.user{
+    float: left;
+    overflow: hidden;
+    margin-bottom: auto;
+}
+.user h3{
+    margin: 0px;
+}
+.point{
+    height: 32px;
+    width: 32px;
+    border: none;
+    float: right;
+    margin-top: 28px;
+    margin-left: 2px;
+    margin-right: 4px;
+}
+.images{
+    height: 460px;
+    width: 620px;
+}
+.icon{
+    height: 36px;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.liked{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.save{
+    float: right;
+    height: inherit;
+    margin-right: 10px;
+}
+.oscuro{
+    color: black; 
+    font-family:'Times New Roman';
+}
+.parrafo{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: auto;
+}
+.hast{
+    color: rgb(0, 119, 255);
+    text-decoration: underline;
+}
+
